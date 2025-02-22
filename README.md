@@ -33,14 +33,14 @@
 ---
 
 ## 📌 **Featured Projects**  
-📊 **[Netflix Data Analysis](https://github.com/yourusername/netflix-analysis)**  
+📊 **[Netflix Data Analysis with SQL](https://github.com/xxARYANx/netflix_sql_project)**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Analyzed Netflix content trends using **SQL & Python**.  
 
-📈 **[Sales Dashboard with Power BI](https://github.com/yourusername/sales-dashboard)**  
+📈 **[Pizza Sales Dashboard with Power BI](https://github.com/xxARYANx/pizza_sales_dashboard_powerBI_project)**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Built an **interactive Sales Dashboard** for revenue analysis.  
 
-🛍️ **[Customer Segmentation with K-Means](https://github.com/yourusername/customer-segmentation)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Used **Machine Learning** to group customers based on behavior.  
+🛍️ **[Call Centre Dashboard using excel](https://github.com/xxARYANx/call_center_dashboard_excel_project)**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Used various excel feature to visulaize data and build interactive dashboard.  
 
 ---
 
@@ -61,7 +61,6 @@
 <p align="center">
   <a href="mailto:aryanlappy2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/aryan-8157b5204"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
