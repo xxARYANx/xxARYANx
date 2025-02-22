@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src=(https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+Lover;Turning+Data+into+Insights!)
- />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+Lover;Turning+Data+into+Insights!" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82956420/134418849-4e5f581d-5e92-42a6-8723-bc02ebf35b4f.gif" width="600">
