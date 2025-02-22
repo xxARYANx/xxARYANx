@@ -10,7 +10,8 @@
   <img src="https://user-images.githubusercontent.com/82956420/134418849-4e5f581d-5e92-42a6-8723-bc02ebf35b4f.gif" width="600">
 </p>
 
-<img align="right" alt="Data Visualization" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RnY2QwZzN3a2RjaHJvOWdrYnE0Z2Q4NmpvbDVlcmRlbGJvdDh3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1N4w8i2YOJIposEnye/giphy.gif">
+<img align="right" alt="SQL Query" width="400" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
+
 
 🔍 Passionate about **data-driven insights, SQL, Python, and visualization**  
 📊 Exploring **Machine Learning & Business Intelligence**  
